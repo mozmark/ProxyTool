@@ -1,0 +1,9 @@
+{
+    "name": "gcliproxy", 
+    "license": "MPL 2.0", 
+    "author": "Mark Goodwin", 
+    "version": "0.1", 
+    "fullName": "GcliProxy", 
+    "id": "jid1-ht5b4wBiazZaFQ", 
+    "description": "a tool to configure proxies in Firefox via the developer command line"
+}
